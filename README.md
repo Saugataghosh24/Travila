@@ -61,7 +61,7 @@ Travila/
    ```bash
    git clone https://github.com/saugataghosh24/Travila.git
    cd Travila
-````
+---
 
 2. Open `index.html` in your browser.
 
